@@ -1,0 +1,6 @@
+JS
+
+1. Created 3 instances on AWS cloud. 
+2. one is Master and 2 are nodes. OS is Ubuntu
+3. update the OS - apt-get update
+4. 
